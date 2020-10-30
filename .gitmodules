@@ -8,3 +8,7 @@
 [submodule "cuatropisos"]
 	path = cuatropisos
 	url = git@github.com:rocketgithub/cuatropisos.git
+[submodule "rrhh"]
+	path = rrhh
+	url = git@github.com:rocketgithub/rrhh.git
+	branch = 13.0
