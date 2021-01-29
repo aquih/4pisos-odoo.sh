@@ -20,3 +20,11 @@
 	path = albaran_analitico
 	url = git@github.com:rocketgithub/albaran_analitico.git
 	branch = 13.0
+[submodule "fel_gt"]
+	path = fel_gt
+	url = git@github.com:rocketgithub/fel_gt.git
+	branch = 13.0
+[submodule "fel_ecofactura"]
+	path = fel_ecofactura
+	url = git@github.com:rocketgithub/fel_ecofactura.git
+	branch = 13.0
