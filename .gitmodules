@@ -28,3 +28,7 @@
 	path = fel_ecofactura
 	url = git@github.com:rocketgithub/fel_ecofactura.git
 	branch = 13.0
+[submodule "kardex"]
+	path = kardex
+	url = git@github.com:rocketgithub/kardex.git
+	branch = 13.0
