@@ -1,6 +1,1 @@
 # 4pisos-odoo.sh
-
-
-
-
-
