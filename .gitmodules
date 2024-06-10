@@ -38,3 +38,9 @@
 [submodule "l10n_sv"]
 	path = l10n_sv
 	url = git@github.com:rocketgithub/l10n_sv.git
+[submodule "cuatropisos_payment_settlement"]
+	path = cuatropisos_payment_settlement
+	url = git@github.com:rocketgithub/cuatropisos_payment_settlement.git
+[submodule "cuatropisos_custom"]
+	path = cuatropisos_custom
+	url = git@github.com:rocketgithub/cuatropisos_custom.git
