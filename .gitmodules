@@ -44,3 +44,9 @@
 [submodule "cuatropisos_custom"]
 	path = cuatropisos_custom
 	url = git@github.com:rocketgithub/cuatropisos_custom.git
+[submodule "fel_cr"]
+	path = fel_cr
+	url = git@github.com:rocketgithub/fel_cr.git
+[submodule "fel_cr_gti"]
+	path = fel_cr_gti
+	url = git@github.com:rocketgithub/fel_cr_gti.git
